@@ -1,1 +1,1 @@
-print("my name is shyam")
+prin("my name is shyam")
